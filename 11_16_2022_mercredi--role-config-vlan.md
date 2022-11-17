@@ -74,5 +74,5 @@ start_ip: 10.10.40.2
 
 ## II. TO DO NEXT
 
-## IV. Some useful links
+## III. Some useful links
 1. [fortinet.fortios.fortios_system_interface module – Configure vlan in Fortinet’s FortiOS and FortiGate.]([https://docs.ansible.com/ansible/latest/collections/fortinet/fortios/fortios_system_global_module.html#ansible-collections-fortinet-fortios-fortios-system-global-module](https://docs.ansible.com/ansible/latest/collections/fortinet/fortios/fortios_system_interface_module.html#ansible-collections-fortinet-fortios-fortios-system-interface-module))
