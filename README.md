@@ -1,11 +1,11 @@
 # Stage-Saly-Ass (EPT -- SONATEL/DSI/A2I/ARS)
 
-## Intitulé du sujet:
+- Intitulé du sujet:
 Automatisation création VPN B2B avec AWX
-1.     Installation et configuration du firewall fortigate VM
-2.     Création environnement AWX
-3.     Automatiser les ouvertures de flux via ansible
-4.     Automatiser la configuration des VPN B2B sur les firewall
+  1. Installation et configuration du firewall fortigate VM
+  2. Création environnement AWX
+  3. Automatiser les ouvertures de flux via ansible
+  4. Automatiser la configuration des VPN B2B sur les firewall
 
 - Link to the github project:
   - [fortigate-ansible](https://github.com/SalyDgn/fortigate-ansible)
