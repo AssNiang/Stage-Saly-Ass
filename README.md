@@ -34,3 +34,4 @@ Automatisation création VPN B2B avec AWX
 12. [ansible/awx](https://github.com/ansible/awx/tree/devel/tools/docker-compose)
 14. [Forigate ansible schedule module documentation](https://docs.ansible.com/ansible/latest/collections/fortinet/fortios/fortios_firewall_schedule_onetime_module.html#ansible-collections-fortinet-fortios-fortios-firewall-schedule-onetime-modules)
 15. [fortigate ansible address module documentation](https://docs.ansible.com/ansible/latest/collections/fortinet/fortios/fortios_firewall_address_module.html#ansible-collections-fortinet-fortios-fortios-firewall-address-module)
+16. [Internship report model](https://www.leparisien.fr/etudiant/jobs-stages/rapport-de-stage/exemple-dun-rapport-de-stage-modele-a-completer-GEUBUKRUOZJBVFP4SOBSPMSVD4.php)
