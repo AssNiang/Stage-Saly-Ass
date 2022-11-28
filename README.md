@@ -10,6 +10,9 @@ Automatisation création VPN B2B avec AWX
 - Link to the github project:
   - [fortigate-ansible](https://github.com/SalyDgn/fortigate-ansible)
 
+- Link to the presentation of the project:
+  - [Canva presentation](https://www.canva.com/design/DAFSj-o5I9I/HjnVa5AHDMMDuLfXDYxA-w/edit?utm_content=DAFSj-o5I9I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 - Link to the Demos: 
   - [Demo awx fortigate](https://drive.google.com/drive/folders/1FU2NlUyysICK-DJsgEAIdLMIvLc69tYf?usp=share_link)
   
